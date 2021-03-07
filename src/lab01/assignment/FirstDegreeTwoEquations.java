@@ -78,7 +78,7 @@ public class FirstDegreeTwoEquations {
 		if(d == 0) {
 			x1 = 0;
 			x2 = 0;
-			JOptionPane.showMessageDialog(null, "(x1, x2)" + " (" + x1 + "," + x2 +")");
+			JOptionPane.showMessageDialog(null, "(x1, x2)" + " (" + x1 + ", " + x2 +")");
 			return;
 		}
 		
